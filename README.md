@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello there:
 A motivated and detail-oriented Flutter developer with a background in Computer Science and Engineering and over three years of research experience and a year of real-world experience delivering production-ready mobile applications. Adept at translating complex ideas into intuitive, high-performance user interfaces and collaborating with cross-functional teams to build scalable solutions. Eager to contribute technical expertise and creative insight to forward-thinking development teams. Visit my website at http://www.aduojo.tech
 
 
