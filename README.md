@@ -1,6 +1,5 @@
 # 💫 Hello there:
 Flutter developer and educator transitioning into analytics engineering, with three years of research experience and a growing focus on SQL, dbt, and data storytelling. Currently building data projects analysing real-world business datasets.
-Recent Project Code base https://github.com/ExcelWhite/KUWAIA/tree/main
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/elisha.enefu.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elisha_aduojo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elisha-enefu-522010285) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AduojoElisha) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DarkFlutter) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:excelwhite20@gmail.com) 
