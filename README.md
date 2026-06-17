@@ -1,6 +1,5 @@
 # 💫 Hello there:
-A dedicated and detail-oriented Flutter developer with a background in computer science and engineering, more than three years of research experience, and a year of real-world experience developing ready-to-use mobile applications. I am able to translate complex ideas into intuitive, high-performance user interfaces and collaborate with cross-functional teams to create scalable solutions. I am ready to share my technical experience and creative approach with visionary development teams.
-
+Flutter developer and educator transitioning into analytics engineering, with three years of research experience and a growing focus on SQL, dbt, and data storytelling. Currently building data projects analysing real-world business datasets.
 Recent Project Code base https://github.com/ExcelWhite/KUWAIA/tree/main
 
 ## 🌐 Socials:
